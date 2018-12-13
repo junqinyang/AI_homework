@@ -1,0 +1,10 @@
+- 爬虫代码，获取电影天堂数据：
+  - get_dytt.py
+- 已爬取的电影天堂数据：
+  - 样本：movie.csv
+  - 标签：movieScore.txt
+- 分析电影天堂数据：
+  - dytt_classify.py
+- 分析mnist手写数字数据集：
+  - mnist_training.py
+- 其余压缩文件为数据集
